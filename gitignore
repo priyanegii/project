@@ -1,0 +1,11 @@
+# Compiled binaries
+carepulse_demo
+tests/tests_bin
+*.o
+*.out
+*.exe
+
+# Editor / OS junk
+.vscode/
+.DS_Store
+*.swp
